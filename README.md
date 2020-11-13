@@ -7,8 +7,6 @@
 
 [soga 后端是一个同时支持 v2ray、Trojan、Shadowsocks 的后端，社区版最高支持88用户，优化了长时间运行的内存占用。](https://github.com/sprov065/soga)
 
-# 破解二进制文件下载地址：[release](https://github.com/RManLuo/crack-soga-v2ray/releases)
-
 # 使用教程
 
 ## 启用破解
