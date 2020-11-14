@@ -235,7 +235,7 @@ show_log() {
 }
 
 install_bbr() {
-    bash <(curl -L -s https://github.com/sprov065/blog/raw/master/bbr.sh)
+    bash <(curl -L -s wget -N --no-check-certificate "https://github.000060000.xyz/tcp.sh" && chmod +x tcp.sh && ./tcp.sh)
     if [[ $? == 0 ]]; then
         echo ""
         echo -e "${green}安装 bbr 成功，请重启服务器${plain}"
